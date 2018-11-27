@@ -1,0 +1,26 @@
+{
+  "name": "evk/base-bitrix-module",
+  "type": "bitrix-module",
+  "version": "1.0.0",
+  "description": "Базовый модуль для bitrix",
+  "keywords": ["bitrix","module"],
+  "time": "2018-11-27 23:26:00",
+  "homepage": "https://github.com/evgen-post/base-bitrix-module",
+  "authors": [
+    {
+      "name": "Евгений Кривоносов",
+      "email": "evgen-post@yandex.ru",
+      "homepage": "http://evk-api.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/evgen-post/base-bitrix-module"
+    }
+  ]
+}
